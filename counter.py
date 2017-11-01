@@ -1,4 +1,4 @@
-""" A program that stores and updates a counter using a Python pickle file"""
+""" A program that stores and updates a counter using a Python pickle file""" 
 
 from os.path import exists
 import sys
